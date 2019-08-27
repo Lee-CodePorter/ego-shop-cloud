@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-platform/cloud-platform.iml" filepath="$PROJECT_DIR$/cloud-platform/cloud-platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/ego-code-gen/ego-code-gen.iml" filepath="$PROJECT_DIR$/ego-code-gen/ego-code-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/ego-public/ego-public.iml" filepath="$PROJECT_DIR$/ego-public/ego-public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/public-common/public-common.iml" filepath="$PROJECT_DIR$/public-common/public-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/public-core/public-core.iml" filepath="$PROJECT_DIR$/public-core/public-core.iml" />
     </modules>

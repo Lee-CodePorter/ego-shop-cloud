@@ -7,8 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="public-common" />
         <module name="public-core" />
+        <module name="eureka-server" />
+        <module name="public-common" />
         <module name="ego-code-gen" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="cloud-platform" target="1.8" />
       <module name="ego-code-gen" target="1.8" />
       <module name="ego-public" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="public-common" target="1.8" />
       <module name="public-core" target="1.8" />
     </bytecodeTargetLevel>
@@ -23,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ego-code-gen" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="public-common" options="-parameters" />
       <module name="public-core" options="-parameters" />
     </option>
